@@ -10,16 +10,16 @@ Carlo exercises (367 in all), in one document, `HayashiSolutions.pdf` (230 pages
 
 | Chapter | Review | Analytical | Empirical | Monte Carlo | Pages |
 |---|---:|---:|---:|---:|---|
-| 1. Finite-Sample Properties of OLS | 46 | 7 | 1 | 1 | 3–25 |
-| 2. Large-Sample Theory | 47 | 12 | 2 | 2 | 26–56 |
-| 3. Single-Equation GMM | 45 | 10 | 1 | — | 57–90 |
-| 4. Multiple-Equation GMM | 22 | 11 | 1 | — | 91–119 |
-| 5. Panel Data | 14 | 7 | 1 | — | 120–139 |
-| 6. Serial Correlation | 35 | 10 | 2 | — | 140–164 |
-| 7. Extremum Estimators | 28 | 3 | — | — | 165–186 |
-| 8. Examples of Maximum Likelihood | 14 | 4 | — | — | 187–198 |
-| 9. Unit-Root Econometrics | 19 | 7 | 1 | 2 | 199–218 |
-| 10. Cointegration | 11 | — | 1 | — | 219–230 |
+| 1. Finite-Sample Properties of OLS | 46 | 7 | 1 | 1 | 2–24 |
+| 2. Large-Sample Theory | 47 | 12 | 2 | 2 | 25–55 |
+| 3. Single-Equation GMM | 45 | 10 | 1 | — | 56–89 |
+| 4. Multiple-Equation GMM | 22 | 11 | 1 | — | 90–118 |
+| 5. Panel Data | 14 | 7 | 1 | — | 119–138 |
+| 6. Serial Correlation | 35 | 10 | 2 | — | 139–163 |
+| 7. Extremum Estimators | 28 | 3 | — | — | 164–185 |
+| 8. Examples of Maximum Likelihood | 14 | 4 | — | — | 186–197 |
+| 9. Unit-Root Econometrics | 19 | 7 | 1 | 2 | 198–217 |
+| 10. Cointegration | 11 | — | 1 | — | 218–229 |
 
 **The exercise statements are not reproduced.** Each solution is headed only by the
 number of its exercise in the book ("Review Question 2.8.2", "Analytical Exercise
